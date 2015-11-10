@@ -1,0 +1,8 @@
+Crear un segundo nombre para una variable metodo
+alias
+
+Usado para definir una funcion
+def
+
+Palabra reservada para crear objetos
+new
